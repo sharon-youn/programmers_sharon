@@ -9,6 +9,7 @@ function solution(n) {
     return (""+n).split('').reverse().map(el => +el)
 }
 
+// Array.from(String(n)) -> str을 arr로 바꿀 수 있따! 
 
 // 다른사람 풀이
 

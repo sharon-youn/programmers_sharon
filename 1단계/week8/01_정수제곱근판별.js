@@ -11,6 +11,8 @@ function solution(n) {
 
 }
 
+// Math.pow(숫자, 2) -> 숫자**2 -> 제곱2
+
 // 다른사람 코딩
 // Number.isIntegar 함수는 해당 숫자가 정수면 true 아니면 false를 반환
 // Number.isIntegar 알아두자! 
